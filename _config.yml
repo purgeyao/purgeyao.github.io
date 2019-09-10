@@ -1,28 +1,28 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Purgeyao
+SEOTitle: Purgeyao的博客 | Purgeyao
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: "关于程序与设计 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+keyword: "Purgeyao, @Purgeyao, Purgeyao的博客, Purgeyao, 博客, 个人网站, 互联网, Web, Java, 后端, 设计, Spring"
+url: "https://purgeyao.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-# Publish posts or collection documents with a future date.
+# 发布带有将来日期的帖子或集合文档。
 future: true
 
-# SNS settings
+# SNS的设置
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     Purgeyao
+zhihu_username:     Purgeyao
+github_username:    purgeyao
+#twitter_username:   Purgeyao
+#facebook_username:  Purgeyao
 #linkedin_username:  firstname-lastname-idxxxx
 
 
 
-# Build settings
+# 构建 设置
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
@@ -42,7 +42,7 @@ plugins: [jekyll-paginate]
 
 
 
-# Markdown settings
+# Markdown 设置
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
@@ -58,10 +58,10 @@ kramdown:
 
 
 
-# Disqus settings
+# Disqus 设置
 disqus_username: hux
 
-# Netease settings
+# Netease 设置
 netease_comment: false
 
 
@@ -103,37 +103,7 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    }
+    #     title: "me",
+    #     href: "https://purgeyao.github.io/"
+    # }
 ]
