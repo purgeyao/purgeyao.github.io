@@ -102,8 +102,8 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-    #     title: "me",
-    #     href: "https://purgeyao.github.io/"
-    # }
+#    {
+#         title: "me",
+#         href: "https://purgeyao.github.io/"
+#     }
 ]
