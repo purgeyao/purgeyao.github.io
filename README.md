@@ -4,8 +4,6 @@
 
 感谢大家的支持。
 
-![头像](img/avatar-hux-ny.jpg)
-
 技术博客类：
 - 知乎: https://www.zhihu.com/people/xiao-nuo-nuo-72-86/posts
 - SegmentFault 思否: https://segmentfault.com/u/xiaonuonuo/articles
@@ -16,3 +14,5 @@
 - 博客园: https://www.cnblogs.com/Purgeyao/
 
 微信/微博:z1346735074/Purgeyao
+
+![头像](img/avatar-hux-ny.jpg)
