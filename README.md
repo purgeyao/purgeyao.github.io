@@ -1,4 +1,4 @@
-# TechnologyArticle
+# TechnologyArticle (https://purgeyao.github.io)
 
 每周更新各个类型的技术文章。
 
