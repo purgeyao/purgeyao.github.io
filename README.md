@@ -7,7 +7,7 @@
 技术博客类：
 - 技术博客: https://purgeyao.github.io
 - 知乎: https://www.zhihu.com/people/purgeyao/posts
-- SegmentFault 思否: https://segmentfault.com/u/xiaonuonuo/articles
+- SegmentFault 思否: https://segmentfault.com/u/purgeyao/articles
 - 简书: https://www.jianshu.com/u/22ca64c5bec3
 - 掘金: https://juejin.im/user/5c2370e7f265da611a47e818/posts
 - 开源中国: https://my.oschina.net/u/4185467
