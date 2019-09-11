@@ -14,7 +14,7 @@ future: true
 # SNS的设置
 RSS: false
 weibo_username:     273115594
-zhihu_username:     Purgeyao
+zhihu_username:     purgeyao
 github_username:    purgeyao
 #twitter_username:   Purgeyao
 #facebook_username:  Purgeyao
