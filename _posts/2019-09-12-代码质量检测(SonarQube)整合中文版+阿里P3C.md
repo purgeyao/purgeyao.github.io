@@ -18,7 +18,7 @@
 使用git克隆项目：
 
 ```
-https://github.com/purgeteam/sonarqube-start
+git clone https://github.com/purgeteam/sonarqube-start
 cd docker-start
 ```
 
