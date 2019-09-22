@@ -195,6 +195,21 @@ public class GlobalDefaultExceptionHandler {
 
 大致内容处理了一些项目常见的异常`Exception`,`BindException`参数异常等。
 
+这里将默认的`404`、`405`、`415`等默认`http`状态码也重写了。
+
+重写这个默认的状态码需要配置`throw-exception-if-no-handler-found`以及`add-mappings`。
+
+```
+# 出现错误时, 直接抛出异常(便于异常统一处理，否则捕获不到404)
+spring.mvc.throw-exception-if-no-handler-found=true
+# 是否开启默认的资源处理，默认为true
+spring.resources.add-mappings=false
+```
+
+ps: 请注意这两个配置会将静态资源忽略。
+
+请产考`WebMvcAutoConfiguration#addResourceHandlers`
+
 `Exception`为了防止未知的异常没有防护到，默认给用户返回`服务器开小差，请稍后再试`等提示。
 
 具体异常默认会以小到大去匹配。
