@@ -374,9 +374,9 @@ public @interface EnableGlobalDispose {
 添加依赖
 ```
 <dependency>
-  <groupId>io.deepblueai</groupId>
+  <groupId>com.purgeteam</groupId>
   <artifactId>unified-dispose-deepblueai-starter</artifactId>
-  <version>0.1.0.RELEASE</version>
+  <version>0.1.1.RELEASE</version>
 </dependency>
 ```
 
