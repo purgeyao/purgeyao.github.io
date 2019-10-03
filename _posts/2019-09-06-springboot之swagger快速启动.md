@@ -193,7 +193,7 @@ public @interface EnableSwaggerPlugins {
 
 ```
 <dependency>
-  <groupId>com.purge.swagger</groupId>
+  <groupId>com.purgeteam</groupId>
   <artifactId>swagger-spring-boot-starter<factId>
   <version>0.1.0.RELEASE</version>
 </dependency>
