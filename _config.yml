@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "大家好，我是Purgeyao"
+sidebar-about-description: "大家好，我是Purgeyao，SpringBoot周边组件qq交流群:812321371"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
