@@ -4,7 +4,8 @@
 
 感谢大家的支持。
 
-技术博客类：
+## 技术博客类：
+
 - 技术博客: https://purgeyao.github.io
 - 知乎: https://www.zhihu.com/people/purgeyao/posts
 - SegmentFault 思否: https://segmentfault.com/u/purgeyao/articles
@@ -14,4 +15,10 @@
 - CSDN: https://blog.csdn.net/weixin_43367055
 - 博客园: https://www.cnblogs.com/Purgeyao/
 
-微信/微博:z1346735074/Purgeyao
+## 交流社区
+
+- 微信/微博:z1346735074/Purgeyao
+
+- 微信公众号:
+    
+![微信公众号二维码](img/about-my-mp.jpg)
