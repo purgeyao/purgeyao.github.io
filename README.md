@@ -21,4 +21,4 @@
 
 - 微信公众号:
     
-![微信公众号二维码](img/about-my-mp.jpg)
+![微信公众号二维码](img/about-my-mp-8cm.jpg)

@@ -10,4 +10,4 @@ Hi，我是Purgeyao，后端 基础架构，编程语言/编译器初心者，[D
 
 - 微信公众号:
     
-![微信公众号二维码](../../img/about-my-mp.jpg)
+![微信公众号二维码](../../img/about-my-mp-8cm.jpg)
