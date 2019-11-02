@@ -472,7 +472,7 @@ public @interface EnableGlobalDispose {
 ```
 <dependency>
   <groupId>com.purgeteam</groupId>
-  <artifactId>unified-dispose-deepblueai-starter</artifactId>
+  <artifactId>unified-dispose-springboot-starter</artifactId>
   <version>0.1.1.RELEASE</version>
 </dependency>
 ```
