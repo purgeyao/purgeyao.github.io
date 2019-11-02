@@ -153,7 +153,7 @@ throw new UserException(UserErrorCode.NOT_PERMISSIONS);
 }
 ```
 
-## Tow 统一返回封装
+## Tow 统一返回封装🗳
 
 在REST风格的开发中，避免通常会告知前台返回是否成功以及状态码等信息。这里我们通常返回的时候做一次`util`的包装处理工作，如：`Result`类似的类，里面包含`succ`、`code`、`msg`、`data`等字段。
 
