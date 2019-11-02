@@ -179,7 +179,7 @@ throw new UserException(UserErrorCode.NOT_PERMISSIONS);
 ```
 ### 功能使用
 
-默认情况所有的 `web controller` 都会被封装为一下返回格式。
+默认情况所有的 `web controller` 都会被封装为以下返回格式。
 
 接口：
 
@@ -205,7 +205,7 @@ public String test(){
 
 ### 忽略封装注解:@IgnorReponseAdvice
 
-`@IgnorReponseAdvice`允许范围为：**类 + 方法**，标识在类上这个类下的说有方法的返回都将忽略返回封装。
+`@IgnorReponseAdvice`允许范围为：**类 + 方法**，标识在类上这个类下的所有方法的返回都将忽略返回封装。
 
 接口：
 
